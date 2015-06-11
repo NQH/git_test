@@ -1,3 +1,3 @@
 <?
-echo  'Mytour.vn';
+echo  'Line: ' . __LINE__ . 'Mytour.vn';
 ?>
